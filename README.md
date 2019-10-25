@@ -1,2 +1,2 @@
 # iost-node
-The side dish container wrapped on `iostio/iost-node`.
+PizzaFactory/Contorno side dish container that wraps `iostio/iost-node`.
